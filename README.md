@@ -5,7 +5,7 @@ You will need the original metal plates from the website for those to fit.
 
 You will need to buy some 8mm x 3mm magnets on the side and simply just press fit them into the print.
 
-NOTE:
+NOTE://
 - These tents will slide around on the desk if you have no desktop mat, corke or the like.
 - Even with these mats and even with rubber pads, they are not as steadily fixated as the original. The 15 degree tent is conciderably more unstable than the 5 degree tent for reference.
 
@@ -19,7 +19,7 @@ Magnets are press fit into the outer holes. The mid hole is for not hitting a sc
 Add it to the plat with one quick snap-on.
 
 ![alt text](/img/462649872_904177725176930_2845941041257293375_n.jpg)
-The top of the tent have matching pads to ensure perfect lock onto the metal plate
+The top of the tent have matching bumps to ensure perfect lock onto the metal plate
 
 ![alt text](/img/462572047_592164240013749_1985026083737267106_n.jpg)
 5 degree tent
