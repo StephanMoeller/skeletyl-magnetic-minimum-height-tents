@@ -13,7 +13,7 @@ NOTE://
 This project is unlicensed. Do whatever you want with it.
 
 ![alt text](/img/462575336_1702296563664196_1176046085793045789_n.jpg)
-Magnets are press fit into the outer holes. The mid hole is for not hitting a screw on the board.
+Magnets are press fit into the outer holes. The mid hole is for not hitting a screw on the board. Use 8mm x 3mm magnets. The whole in the middle is just what I had laying around.
  
 ![alt text](/img/466963251_564745096270732_2008680957768186835_n.jpg)
 Add it to the plat with one quick snap-on.
